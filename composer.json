@@ -16,7 +16,7 @@
   "autoload": {
     "psr-4": {
       "Base\\": "Base",
-      "Skeleton\\": "Source/Skeleton"
+      "Skeleton\\": "Test/Skeleton"
     }
   }
 }
